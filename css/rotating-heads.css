@@ -1,0 +1,39 @@
+/*
+Filename: rotating-heads.css
+Project: rotating heads
+Type: CSS
+Author: Jan Dellsperger
+Initial Version: 14. October 2013
+
+This is the style sheet for the rotating heads project. All UI styles are
+defined in this file.
+
+Changelog:
+12.11.2013 - Modifikationen zur leistungsverbesserung
+*/
+
+
+
+
+
+
+.image-holder{
+    position: relative;
+    margin: 0 auto;
+    width: 260px;
+    height: 260px;
+}
+
+.head-image,.circle{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 260px;
+    height: 260px;
+}
+
+
+
+
+
+
